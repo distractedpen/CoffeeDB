@@ -1,0 +1,101 @@
+2001,7 monks cafe
+2002,95 degrees
+2003,aroma coffee
+2004,basin cafe
+2005,basket & green
+2006,bean and gone
+2007,beans and cream
+2008,bits and bites
+2009,brekky cafe
+2010,cafe 2.0
+2011,cafe arabica
+2012,cafe bellissimo
+2013,cafe continental
+2014,cafe culture
+2015,cafe italia
+2016,cafe java
+2017,cafe latte
+2018,cafe mode
+2019,cafe plus
+2020,cafe pronto
+2021,cafe thirteen
+2022,capital coffee
+2023,cinammon cafe
+2024,cocoa coffee
+2025,cocobean
+2026,coffee 101
+2027,coffee and cake
+2028,coffee break cafe
+2029,coffee central
+2030,coffee crew
+2031,coffee hut
+2032,coffee lab
+2033,coffee republic
+2034,coffee shot
+2035,coffeeville
+2036,cosy coffee
+2037,country lane cafe
+2038,dream bean cafe
+2039,eastside cafe
+2040,edge cafe
+2041,eight acres cafe
+2042,epic cafe
+2043,espresso joe
+2044,essence cafe
+2045,express-o coffee
+2046,flamenco
+2047,flip cafe
+2048,fresh
+2049,globe
+2050,hillside
+2051,honest coffeehouse
+2052,inside cafe
+2053,interact coffeehouse
+2054,kaffeinate
+2055,kings cafe
+2056,le cafe
+2057,myriad
+2058,old cafe
+2059,parisian cafe
+2060,potluck
+2061,providence cafe
+2062,riverside cafe
+2063,robusta cafe
+2064,royal coffee
+2065,spectrum cafe
+2066,spoonful cafe
+2067,star cafe and coffee
+2068,steaming mugs
+2069,stillwater cafe
+2070,streets cafe
+2071,sugar cube cafe
+2072,sweet treats
+2073,sweetbrew
+2074,temptations
+2075,the antique
+2076,the atrium
+2077,the barracks
+2078,the boardwalk
+2079,the brim
+2080,the busy bean
+2081,the coffee grinder
+2082,the coffee lounge
+2083,the cs457 cafe
+2084,the cube
+2085,the daily grind
+2086,the hideout
+2087,the jam jar
+2088,the lab
+2089,the little cafe
+2090,the parlour
+2091,the village cafe
+2092,town & country coffee
+2093,tulips cafe
+2094,uncle joe
+2095,urban
+2096,waffle on
+2097,waterfront
+2098,yo yo coffee
+2099,yummies coffee shop
+2100,zest
+2101,zone cafe

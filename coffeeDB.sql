@@ -49,7 +49,7 @@ create trigger insertTransaction after insert on RawImportData
 	when ((new.cid not null and new.cid in (select cid from CustomerID)) and
 		 (new.sid not null and new.sid in (select sid from ShopId)) and
 		  new.coffee not null and new.price not null)
-	begins
+	begin
 		insert into Transactions values (new.cid, new.sid, new.coffee, new.price);
 		delete from RawImportData where cid=new.cid and sid=new.sid and coffee=new.coffee and price=new.price;
 	end;
